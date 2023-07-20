@@ -26,6 +26,7 @@
     line-height: 30px;
     overflow-y: auto;
     overflow-x: hidden;
+    word-break: break-all;
 }
 .table_content::-webkit-scrollbar {
     width: 2px;
